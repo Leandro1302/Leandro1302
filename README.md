@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)]
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">Hi 👋, I'm Leandro Battistoni</h1>
 <h3 align="center">A passionate AI student from Italy</h3>
 <img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
