@@ -1,3 +1,4 @@
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&reversal=false&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
@@ -17,7 +18,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/leandro-battistoni" target="_blank">
+  <a href="https://linkedin.com/in/leandro-battistoni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
