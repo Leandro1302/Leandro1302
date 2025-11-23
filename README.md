@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">📚 I'm currently enrolled n Artificial intelligence master's degree at Unibo</p>
+<p align="left">📚 I'm currently enrolled in Artificial intelligence master's degree at Unibo</p>
 
 ###
 
